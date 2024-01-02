@@ -21,7 +21,7 @@ namespace HotelListing.API.Data
                     Id = 1,
                     Name = "Jamaica",
                     ShortName = "JM"
-                }, 
+                },
                 new Country
                 {
                     Id = 2,
